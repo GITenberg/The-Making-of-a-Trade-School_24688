@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '26675'
     url: http://www.gutenberg.org/2009/agents/26675
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24688#The-Making-of-a-Trade-School
 gutenberg_issued: '2008-02-26'
 gutenberg_type: Text
 identifiers:
