@@ -1,0 +1,28 @@
+_repo: The-Making-of-a-Trade-School_24688
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Woolman, Mary Schenck
+    birthdate: 1860
+    gutenberg_agent_id: '26675'
+    url: http://www.gutenberg.org/2009/agents/26675
+description: ''
+gutenberg_issued: '2008-02-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24688'
+  lccn: e10002209
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'LC'
+- !lcsh 'Manhattan Trade School for Girls, New York'
+- !lcsh 'School management and organization'
+- !lcsh 'New York (N.Y.)'
+title: The Making of a Trade School
+url: http://www.gutenberg.org/ebooks/24688
